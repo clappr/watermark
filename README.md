@@ -8,3 +8,8 @@ Install dependencies:
 Build:
 
 `npm run build`
+
+Minified version:
+
+`npm run release`
+

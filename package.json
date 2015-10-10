@@ -4,7 +4,8 @@
   "description": "watermark plugin for clappr",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/webpack"
+    "build": "./node_modules/.bin/webpack",
+    "release": "./node_modules/.bin/webpack -p"
   },
   "author": "Thiago Pontes <email@thiago.me>",
   "license": "ISC",
