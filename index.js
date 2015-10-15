@@ -9,7 +9,6 @@ export default class WaterMarkPlugin extends UIContainerPlugin {
 
   constructor(options) {
     super(options)
-    console.log('nossa marca');
     this.position = options.position || "bottom-right"
     if (options.watermark) {
       this.imageUrl = options.watermark
