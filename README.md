@@ -1,3 +1,6 @@
+:warning: this only works with clappr master :warning:
+
+
 # clappr-watermark
 :sweat_drops: Watermark plugin for Clappr
 
